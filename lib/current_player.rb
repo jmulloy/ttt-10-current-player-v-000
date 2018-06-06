@@ -19,4 +19,5 @@ def current_player(board)
       return "O" 
     puts "divisible by 2"
     end 
+  end
 end 
